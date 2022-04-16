@@ -1,0 +1,38 @@
+[5.003s] Invoking command in '/home/user/ros2_ws/src/rosject1': PYTHONPATH=/home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../build/rosject1 build --build-base /home/user/ros2_ws/src/build/rosject1/build install --prefix /home/user/ros2_ws/src/install/rosject1 --record /home/user/ros2_ws/src/build/rosject1/install.log --single-version-externally-managed
+[9.352s] running egg_info
+[9.373s] creating ../build/rosject1/rosject1.egg-info
+[9.375s] writing ../build/rosject1/rosject1.egg-info/PKG-INFO
+[9.385s] writing dependency_links to ../build/rosject1/rosject1.egg-info/dependency_links.txt
+[9.387s] writing entry points to ../build/rosject1/rosject1.egg-info/entry_points.txt
+[9.387s] writing requirements to ../build/rosject1/rosject1.egg-info/requires.txt
+[9.394s] writing top-level names to ../build/rosject1/rosject1.egg-info/top_level.txt
+[9.412s] writing manifest file '../build/rosject1/rosject1.egg-info/SOURCES.txt'
+[9.766s] reading manifest file '../build/rosject1/rosject1.egg-info/SOURCES.txt'
+[9.781s] writing manifest file '../build/rosject1/rosject1.egg-info/SOURCES.txt'
+[9.781s] running build
+[9.782s] running build_py
+[9.782s] creating /home/user/ros2_ws/src/build/rosject1/build
+[9.782s] creating /home/user/ros2_ws/src/build/rosject1/build/lib
+[9.782s] creating /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1
+[9.782s] copying rosject1/__init__.py -> /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1
+[9.783s] copying rosject1/robot.py -> /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1
+[9.783s] running install
+[9.785s] running install_lib
+[9.800s] creating /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1
+[9.800s] copying /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1/__init__.py -> /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1
+[9.800s] copying /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1/robot.py -> /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1
+[9.800s] byte-compiling /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1/__init__.py to __init__.cpython-38.pyc
+[9.801s] byte-compiling /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1/robot.py to robot.cpython-38.pyc
+[9.803s] running install_data
+[9.815s] creating /home/user/ros2_ws/src/install/rosject1/share/ament_index
+[9.815s] creating /home/user/ros2_ws/src/install/rosject1/share/ament_index/resource_index
+[9.815s] creating /home/user/ros2_ws/src/install/rosject1/share/ament_index/resource_index/packages
+[9.823s] copying resource/rosject1 -> /home/user/ros2_ws/src/install/rosject1/share/ament_index/resource_index/packages
+[9.823s] copying package.xml -> /home/user/ros2_ws/src/install/rosject1/share/rosject1
+[9.824s] copying launch/rosject1_launch_file.launch.py -> /home/user/ros2_ws/src/install/rosject1/share/rosject1
+[9.826s] running install_egg_info
+[9.834s] Copying ../build/rosject1/rosject1.egg-info to /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1-0.0.0-py3.8.egg-info
+[9.847s] running install_scripts
+[10.028s] Installing robot script to /home/user/ros2_ws/src/install/rosject1/lib/rosject1
+[10.029s] writing list of installed files to '/home/user/ros2_ws/src/build/rosject1/install.log'
+[10.291s] Invoked command in '/home/user/ros2_ws/src/rosject1' returned '0': PYTHONPATH=/home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../build/rosject1 build --build-base /home/user/ros2_ws/src/build/rosject1/build install --prefix /home/user/ros2_ws/src/install/rosject1 --record /home/user/ros2_ws/src/build/rosject1/install.log --single-version-externally-managed

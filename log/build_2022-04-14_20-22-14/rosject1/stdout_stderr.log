@@ -1,0 +1,36 @@
+running egg_info
+creating ../build/rosject1/rosject1.egg-info
+writing ../build/rosject1/rosject1.egg-info/PKG-INFO
+writing dependency_links to ../build/rosject1/rosject1.egg-info/dependency_links.txt
+writing entry points to ../build/rosject1/rosject1.egg-info/entry_points.txt
+writing requirements to ../build/rosject1/rosject1.egg-info/requires.txt
+writing top-level names to ../build/rosject1/rosject1.egg-info/top_level.txt
+writing manifest file '../build/rosject1/rosject1.egg-info/SOURCES.txt'
+reading manifest file '../build/rosject1/rosject1.egg-info/SOURCES.txt'
+writing manifest file '../build/rosject1/rosject1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/src/build/rosject1/build
+creating /home/user/ros2_ws/src/build/rosject1/build/lib
+creating /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1
+copying rosject1/__init__.py -> /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1
+copying rosject1/robot.py -> /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1
+running install
+running install_lib
+creating /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1
+copying /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1/__init__.py -> /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1
+copying /home/user/ros2_ws/src/build/rosject1/build/lib/rosject1/robot.py -> /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1
+byte-compiling /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1/robot.py to robot.cpython-38.pyc
+running install_data
+creating /home/user/ros2_ws/src/install/rosject1/share/ament_index
+creating /home/user/ros2_ws/src/install/rosject1/share/ament_index/resource_index
+creating /home/user/ros2_ws/src/install/rosject1/share/ament_index/resource_index/packages
+copying resource/rosject1 -> /home/user/ros2_ws/src/install/rosject1/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/src/install/rosject1/share/rosject1
+copying launch/rosject1_launch_file.launch.py -> /home/user/ros2_ws/src/install/rosject1/share/rosject1
+running install_egg_info
+Copying ../build/rosject1/rosject1.egg-info to /home/user/ros2_ws/src/install/rosject1/lib/python3.8/site-packages/rosject1-0.0.0-py3.8.egg-info
+running install_scripts
+Installing robot script to /home/user/ros2_ws/src/install/rosject1/lib/rosject1
+writing list of installed files to '/home/user/ros2_ws/src/build/rosject1/install.log'
